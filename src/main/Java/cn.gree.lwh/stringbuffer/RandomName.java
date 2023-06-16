@@ -1,7 +1,6 @@
-package cn.gree.lwh.StringBuffer;
+package cn.gree.lwh.stringbuffer;
 
 import java.util.Random;
-import java.util.Scanner;
 
 public class RandomName {
     public static void main(String[] args) {

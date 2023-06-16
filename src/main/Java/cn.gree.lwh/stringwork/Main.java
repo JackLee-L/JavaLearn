@@ -1,4 +1,4 @@
-package cn.gree.lwh.StringWork;
+package cn.gree.lwh.stringwork;
 
 import java.util.Scanner;
 

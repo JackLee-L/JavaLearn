@@ -1,4 +1,4 @@
-package cn.gree.lwh.MapDemo;
+package cn.gree.lwh.mapdemo;
 
 import java.util.Collections;
 import java.util.HashMap;

@@ -1,5 +1,7 @@
 package cn.gree.lwh;
 
+import org.junit.Test;
+
 public class stringTest1 {
     public static void main(String[] args){
         System.out.println("------------------split分隔字符串------------------------");
@@ -10,5 +12,10 @@ public class stringTest1 {
             String arrayStr1 = arrayStr[i];
             System.out.println(arrayStr1);
         }
+    }
+
+    @Test
+    public void hallo() {
+        System.out.println("hello word");
     }
 }

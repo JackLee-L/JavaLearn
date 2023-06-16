@@ -1,4 +1,4 @@
-package cn.gree.lwh.MapDemo;
+package cn.gree.lwh.mapdemo;
 
 public class Person implements Comparable<Person> {
     private int id;

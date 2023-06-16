@@ -1,4 +1,4 @@
-package cn.gree.lwh.StringWork;
+package cn.gree.lwh.stringwork;
 
 public class Person {
     private String name;

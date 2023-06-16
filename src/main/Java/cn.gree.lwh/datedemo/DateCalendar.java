@@ -1,4 +1,4 @@
-package cn.gree.lwh.DateDemo;
+package cn.gree.lwh.datedemo;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

@@ -1,4 +1,4 @@
-package cn.gree.lwh.CollectionDemo;
+package cn.gree.lwh.collectiondemo;
 /**
  * 创建一个学生的类
  */

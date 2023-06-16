@@ -1,6 +1,5 @@
-package cn.gree.lwh.MapDemo;
+package cn.gree.lwh.mapdemo;
 
-import java.util.EmptyStackException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;

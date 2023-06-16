@@ -1,4 +1,4 @@
-package cn.gree.lwh.SystemTest;
+package cn.gree.lwh.systemtest;
 
 public class SystemTest {
     public static void main(String[] args){

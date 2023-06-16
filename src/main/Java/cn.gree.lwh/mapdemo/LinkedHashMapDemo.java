@@ -1,6 +1,5 @@
-package cn.gree.lwh.MapDemo;
+package cn.gree.lwh.mapdemo;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 

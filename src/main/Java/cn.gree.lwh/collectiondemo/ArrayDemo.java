@@ -1,4 +1,4 @@
-package cn.gree.lwh.CollectionDemo;
+package cn.gree.lwh.collectiondemo;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
